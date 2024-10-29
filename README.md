@@ -17,6 +17,12 @@ git clone https://gitlab.com/Sampledadaya/devops.git
    docker-compose up
 ```
 
+### Далее переходим на сайт
+
+```
+localhost:80
+```
+
 
 ## Инструкция по сборке и запуску №2
 
@@ -45,4 +51,10 @@ docker build -t sampledadaya69/devops-test .
 
 ```bash
 docker run -p 80:80 sampledadaya69/devops-test
+```
+
+### Далее переходим на сайт
+
+```
+localhost:80
 ```

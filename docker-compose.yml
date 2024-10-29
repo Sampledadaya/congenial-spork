@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    image: sampledadaya69/devops-test:latest
+    ports:
+      - "80:80"
+    restart: always
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+        max-file: "3"

@@ -1,0 +1,19 @@
+stages:
+  - build
+  - push
+
+variables:
+  IMAGE_NAME: sampledadaya69/devops-test
+
+build:
+  stage: build
+  script:
+    - docker build -t $IMAGE_NAME .
+
+push:
+  stage: push
+  script:
+    - echo "$DOCKERHUB_PASSWORD" | docker login -u "$DOCKERHUB_USERNAME" --password-stdin
+    - docker push $IMAGE_NAME
+  only:
+    - main

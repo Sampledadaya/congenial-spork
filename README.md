@@ -11,6 +11,12 @@ git clone https://gitlab.com/Sampledadaya/devops.git
 
 ```
 
+### Переходим в директорию проекта
+
+```bash
+cd devops
+```
+
 ### В корневой директории проекта вводим следующую команду
 
 ```bash

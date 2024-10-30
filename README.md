@@ -64,3 +64,9 @@ docker run -p 80:80 sampledadaya69/devops-test
 ```
 localhost:80
 ```
+
+## Так же данный проект имеется на github
+```
+https://github.com/Sampledadaya/congenial-spork
+```
+На gitlab, к сожалению не удается провести верификацию аккаунта для запуска пайплайнов, но на гитхаб тоже все настроено

@@ -2,7 +2,7 @@
 ## Инструкция по запуску
 Вводим в терминале 
 ```bash
-docker run -p -d 80:80 sampledadaya69/devops-test
+docker run -d -p 80:80 sampledadaya69/devops-test
 ```
 
 

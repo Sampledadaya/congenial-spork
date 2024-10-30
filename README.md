@@ -70,3 +70,8 @@ localhost:80
 https://github.com/Sampledadaya/congenial-spork
 ```
 На gitlab, к сожалению не удается провести верификацию аккаунта для запуска пайплайнов, но на гитхаб тоже все настроено
+
+### Ссылка на DockerHub
+```
+https://hub.docker.com/r/sampledadaya69/devops-test
+```

@@ -7,7 +7,7 @@
 ### Клонирование проекта
 
 ```bash
-git clone https://gitlab.com/Sampledadaya/devops.git
+git clone https://github.com/Sampledadaya/congenial-spork.git
 
 ```
 
@@ -37,7 +37,7 @@ localhost:80
 ### Клонирование проекта
 
 ```bash
-git clone https://gitlab.com/Sampledadaya/devops.git
+git clone [https://gitlab.com/Sampledadaya/devops.git](https://github.com/Sampledadaya/congenial-spork.git)
 
 ```
 

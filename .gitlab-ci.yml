@@ -3,7 +3,7 @@ stages:
   - push
 
 variables:
-  IMAGE_NAME: sampledadaya69/devops-test
+  IMAGE_NAME: sampledadayas69/devops-test
 
 build:
   stage: build
